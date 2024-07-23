@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a706204a.css",
+    "main.js": "/static/js/main.c49c2add.js",
+    "static/media/coding-background.jpg": "/static/media/coding-background.2a51818b09d24f9b27d7.jpg",
+    "static/media/2024-07-21_Aditya_Mahesh_CV.pdf": "/static/media/2024-07-21_Aditya_Mahesh_CV.511459dc88d288d1ab44.pdf",
+    "static/media/mahesh.jpg": "/static/media/mahesh.b26b3b71f5d9de7dbe2e.jpg",
+    "index.html": "/index.html",
+    "main.a706204a.css.map": "/static/css/main.a706204a.css.map",
+    "main.c49c2add.js.map": "/static/js/main.c49c2add.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a706204a.css",
+    "static/js/main.c49c2add.js"
+  ]
+}
